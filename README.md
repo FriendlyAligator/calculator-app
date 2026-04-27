@@ -1,4 +1,5 @@
 # Calculator App
+![Live Demo](https://img.shields.io/badge/Live-Demo-green)
 
 A responsive calculator built using HTML, CSS and JavaScript.
 
