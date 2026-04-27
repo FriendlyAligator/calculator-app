@@ -9,9 +9,9 @@ A responsive calculator built using HTML, CSS and JavaScript.
 - Simple and clean design
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
+- ![HTML](https://img.shields.io/badge/HTML-orange)
+- ![CSS](https://img.shields.io/badge/CSS-blue)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ## How to Run
 1. Download or clone the repository
