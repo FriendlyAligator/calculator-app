@@ -18,7 +18,7 @@ A responsive calculator built using HTML, CSS and JavaScript.
 2. Open `index.html` in your browser
 
 ## Screenshot
-![Calculator App Screenshot](screenshot.png)
+![Calculator App Screenshot](calculator.png)
 
 
 ## Live Demo
