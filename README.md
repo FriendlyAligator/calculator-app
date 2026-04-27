@@ -17,6 +17,10 @@ A responsive calculator built using HTML, CSS and JavaScript.
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
+## Screenshot
+![Calculator App Screenshot](screenshot.png)
+
+
 ## Live Demo
 https://github.com/FriendlyAligator/calculator-app
 
