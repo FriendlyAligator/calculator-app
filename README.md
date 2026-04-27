@@ -1,6 +1,7 @@
-# Calculator App
-![Live Demo](https://img.shields.io/badge/Live-Demo-green)
+## Live Demo
+[View Calculator App](https://friendlyaligator.github.io/calculator-app/)
 
+# Calculator App
 A responsive calculator built using HTML, CSS and JavaScript.
 
 ## Features
