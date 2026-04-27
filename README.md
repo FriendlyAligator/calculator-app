@@ -13,6 +13,14 @@ A responsive calculator built using HTML, CSS and JavaScript.
 - ![CSS](https://img.shields.io/badge/CSS-blue)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
+## Topics 
+- javascript
+- calculator
+- html
+- css
+- web-app
+- frontend-project
+
 ## How to Run
 1. Download or clone the repository
 2. Open `index.html` in your browser
